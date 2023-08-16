@@ -1,6 +1,6 @@
-# Projeto de Mentoria: Aprendizado de Bootstrap, HTML, CSS e Metodologia Ágil Scrum
+# Projeto de Mentoria: Aprendizado de Bootstrap, HTML, CSS, Git e Metodologia Ágil Scrum
 
-Projeto realizado como parte de uma iniciativa de mentoria com o objetivo de aprimorar habilidades essenciais, incluindo Bootstrap, HTML, CSS, Git e práticas de trabalho ágeis com a metodologia Scrum.
+Projeto realizado como parte de uma iniciativa de mentoria com o objetivo de ensinar habilidades básicas sobre desenvolvimento web, incluindo Bootstrap, HTML, CSS, Git e práticas de trabalho ágeis com a metodologia Scrum.
 
 ## Tecnologias e Metodologia
 HTML: Utilizado como base estrutural do projeto.  
